@@ -1,0 +1,7 @@
+23:14:45.317 [main] INFO  resources.Base - Clicking the Actual item
+23:14:46.459 [main] INFO  resources.Base - DDL is selected with the help of select class
+23:14:49.844 [main] INFO  resources.Base - Preemie in DDL is selected
+23:14:56.563 [main] INFO  resources.Base - Clicked on Add to cart option
+23:15:00.041 [main] INFO  resources.Base - Clicking on Add to Cart icon
+23:15:00.147 [main] INFO  resources.Base - Getting all the items in the webpage
+23:15:00.191 [main] INFO  resources.Base - Getting the text of the selected item from the cart
